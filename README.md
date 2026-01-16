@@ -15,6 +15,7 @@ This project generates strong random passwords based on user preferences such as
 
 ---
 
+
 ## 🛠 Technologies Used
 - Python 3
 - VS Code
