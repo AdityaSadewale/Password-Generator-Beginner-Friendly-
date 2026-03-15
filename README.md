@@ -23,4 +23,4 @@ This project generates strong random passwords based on user preferences such as
 
 ---
 
-## 📂
+
